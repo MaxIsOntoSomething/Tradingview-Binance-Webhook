@@ -1,0 +1,10 @@
+{
+    "BINANCE_API_KEY": "your_binance_api_key",
+    "BINANCE_API_SECRET": "your_binance_api_secret",
+    "USE_TESTNET": true,
+    "TRADE_PERCENTAGE": 0.1,
+    "WEBHOOK_PORT": 5000,
+    "TESTNET_API_KEY": "Dp6eeCaRdzXWLA0Kwy70mA8c14iYbFhcn3tlCUjiDls6RLQXuIVVoyItHVHVssMT",
+    "TESTNET_API_SECRET": "Xmk03ZOEIdA98ggHLMqQnyKkxuP3NYCeEMqxHKlSTOs3S8tD19ndyYA1kchbZMs6",
+    "USE_EMAIL": true  
+}
