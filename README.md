@@ -18,7 +18,7 @@ This bot executes trades on Binance based on signals sent via TradingView alerts
    ```
 
 2. **Configure API keys and settings**:
-   - Update `config.json` with your Binance API keys and desired settings:
+   - Copy `config_template.json` to `config.json` and update it with your Binance API keys and desired settings:
      ```json
      {
          "BINANCE_API_KEY": "your_binance_api_key",
@@ -59,3 +59,14 @@ This project is licensed under the MIT License.
 For any questions or support, contact me on Discord:
 
 ![Discord Logo](https://camo.githubusercontent.com/466cd9b81abcedb1db7d8f6fcd75148b6728e1eb8e443ab320928e924b93a4e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465) maskiplays
+
+## Tags
+
+- Binance
+- Trading Bot
+- TradingView
+- Webhook
+- Email Alerts
+- Python
+- Flask
+- Cryptocurrency
