@@ -46,6 +46,10 @@ This bot executes trades on Binance based on signals sent via TradingView alerts
    python bot.py
    ```
 
+## Disclaimer
+
+This bot is provided as-is and is intended for educational purposes only. Use it at your own risk. The author is not financially accountable for any losses incurred while using this bot.
+
 ## License
 
 This project is licensed under the MIT License.
